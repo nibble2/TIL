@@ -35,3 +35,6 @@ Today I learned	&#9997;
 ### Serverless
 * [Serverless](https://velopert.com/3543)
 
+### Web 
+* [웹 동작원리](https://opentutorials.org/course/3084/18890)
+
