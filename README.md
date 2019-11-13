@@ -31,10 +31,13 @@ Today I learned	&#9997;
 ### Git
 * [레파지토리에 있는 폴더 지우기](https://nesoy.github.io/articles/2017-01/Git-Ignore)
 
+* [git hub 웹호스팅하기](https://opentutorials.org/course/2473/16117?source=post_page-----5e773c68d300----------------------)
 
 ### Serverless
 * [Serverless](https://velopert.com/3543)
 
 ### Web 
 * [웹 동작원리](https://opentutorials.org/course/3084/18890)
+
+* [http](https://opentutorials.org/course/2136/12063)
 
