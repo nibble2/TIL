@@ -22,6 +22,8 @@ Today I learned	&#9997;
 ### Python
 * [requirements.txt 만들기](https://opentutorials.org/module/4003/24539)
 
+* [WSGI](https://brownbears.tistory.com/350)
+
 
 ### JWT
 * [JWT 이란?](https://velopert.com/2389)
@@ -29,6 +31,8 @@ Today I learned	&#9997;
 
 
 ### Git
+* [git vs gitHub](https://www.zerocho.com/category/Git/post/58045dbc146be6001542a465)
+
 * [레파지토리에 있는 폴더 지우기](https://nesoy.github.io/articles/2017-01/Git-Ignore)
 
 * [git hub 웹호스팅하기](https://opentutorials.org/course/2473/16117?source=post_page-----5e773c68d300----------------------)
