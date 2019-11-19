@@ -1,4 +1,4 @@
-stored 함수
+sorted 함수
 ==
 #### [백준 2920문제](https://www.acmicpc.net/problem/2920)
 
