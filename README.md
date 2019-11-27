@@ -24,6 +24,8 @@ Today I learned	&#9997;
 
 * [WSGI](https://brownbears.tistory.com/350)
 
+#### Javascript
+* [이벤트 버블링, 위임, 캡처](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
 
 ### JWT
 * [JWT 이란?](https://velopert.com/2389)
