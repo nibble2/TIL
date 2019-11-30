@@ -24,6 +24,8 @@ Today I learned	&#9997;
 
 * [WSGI](https://brownbears.tistory.com/350)
 
+* [Migration](http://pythonstudy.xyz/python/article/309-DB-%EC%84%A4%EC%A0%95%EA%B3%BC-Migration)
+
 #### Javascript
 * [이벤트 버블링, 위임, 캡처](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
 
