@@ -4,6 +4,10 @@ Today I learned	&#9997;
 + 처음엔 내용이 미약하더라도 계속하여 업데이트합니다.
 ---
 
+### 개발 관련 글
+* [프런트 엔드 개발 가이드](https://joshua1988.github.io/vue-camp/front-dev.html#웹-개발자-역할의-변화)
+
+
 ### AWS
 * [DNS 오류가 날 때](https://www.ihee.com/460)
 * [EC2에 RDS 연동하기](https://ndb796.tistory.com/226)
