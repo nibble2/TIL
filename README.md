@@ -7,10 +7,13 @@ Today I learned	&#9997;
 ### 개발 관련 글
 * [프런트 엔드 개발 가이드](https://joshua1988.github.io/vue-camp/front-dev.html#웹-개발자-역할의-변화)
 
-
 ### AWS
 * [DNS 오류가 날 때](https://www.ihee.com/460)
 * [EC2에 RDS 연동하기](https://ndb796.tistory.com/226)
+
+### CSS
+* [MDN - media query](https://developer.mozilla.org/ko/docs/Web/Guide/CSS/Media_queries)
+* [meda query 예시](https://thrillfighter.tistory.com/498)
 
 ### DynamoDB
 * [DynamoDB란 ?](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/Introduction.html)
@@ -19,6 +22,7 @@ Today I learned	&#9997;
 
 ### HTML
 * [table 태그](http://webberstudy.com/html-css/html-2/table-basic-structure/)
+* [text-align](https://aboooks.tistory.com/92)
 
 ### PHP
 * [Phalcon Framework](https://crystalcube.co.kr/164)
@@ -37,7 +41,6 @@ Today I learned	&#9997;
 ### JWT
 * [JWT 이란?](https://velopert.com/2389)
 * [JWT의 동작원리](https://swalloow.github.io/implement-jwt)
-
 
 ### Git
 * [git vs gitHub](https://www.zerocho.com/category/Git/post/58045dbc146be6001542a465)
