@@ -16,6 +16,7 @@ Today I learned	&#9997;
 * [MDN - media query](https://developer.mozilla.org/ko/docs/Web/Guide/CSS/Media_queries)
 * [meda query 예시](https://thrillfighter.tistory.com/498)
 * [z-index](https://developer.mozilla.org/ko/docs/Web/CSS/Understanding_z-index/Adding_z-index)
+* [display - inline, block, inline-block](https://www.daleseo.com/css-display-inline-block/)
 
 ### DataPicker
 * [DataPicker 한글 버전](https://kkyunstory.tistory.com/128)
