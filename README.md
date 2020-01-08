@@ -72,3 +72,6 @@ Today I learned	&#9997;
 
 * [http](https://opentutorials.org/course/2136/12063)
 
+### 도움이 되는 개발자들의 회고들
+* [체대출신 개발자 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/?fbclid=IwAR2oFQEww3EBp6y9ea6fuN92bmjCNCzsauSVRQresXYB-TwKPwrbrwyDKFM)
+
