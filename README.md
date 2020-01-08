@@ -6,6 +6,7 @@ Today I learned	&#9997;
 
 ### 개발 관련 글
 * [프런트 엔드 개발 가이드](https://joshua1988.github.io/vue-camp/front-dev.html#웹-개발자-역할의-변화)
+* [HTML+CSS+JQUERY 에버디벨 개발 참고](https://www.everdevel.com/HTML/form-tag/)
 
 ### AWS
 * [DNS 오류가 날 때](https://www.ihee.com/460)
@@ -14,6 +15,9 @@ Today I learned	&#9997;
 ### CSS
 * [MDN - media query](https://developer.mozilla.org/ko/docs/Web/Guide/CSS/Media_queries)
 * [meda query 예시](https://thrillfighter.tistory.com/498)
+
+### DataPicker
+* [DataPicker 한글 버전](https://kkyunstory.tistory.com/128)
 
 ### DynamoDB
 * [DynamoDB란 ?](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/Introduction.html)
