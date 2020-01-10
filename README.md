@@ -17,6 +17,7 @@ Today I learned	&#9997;
 * [meda query 예시](https://thrillfighter.tistory.com/498)
 * [z-index](https://developer.mozilla.org/ko/docs/Web/CSS/Understanding_z-index/Adding_z-index)
 * [display - inline, block, inline-block](https://www.daleseo.com/css-display-inline-block/)
+* [css 반응형 웹 예제](https://www.codingfactory.net/10534)
 
 ### DataPicker
 * [DataPicker 한글 버전](https://kkyunstory.tistory.com/128)
@@ -64,7 +65,7 @@ Today I learned	&#9997;
 * [Serverless](https://velopert.com/3543)
 
 ### UI / UX
-* [반응형 웹](https://www.samsungsds.com/global/ko/support/insights/Responsive_web_1.html)
+* [반응형 웹을 만들기 위해 인지하고 있어야할 것](https://www.samsungsds.com/global/ko/support/insights/Responsive_web_1.html)
 * [리액트-반응형 웹](https://eblee-repo.tistory.com/49)
 
 ### Vue.js
