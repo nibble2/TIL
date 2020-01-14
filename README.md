@@ -19,6 +19,7 @@ Today I learned	&#9997;
 * [display - inline, block, inline-block](https://www.daleseo.com/css-display-inline-block/)
 * [css 반응형 웹 예제](https://www.codingfactory.net/10534)
 * [프로필 사진 둥글게 만들기](https://zetawiki.com/wiki/CSS_%EC%9B%90%ED%98%95_%EC%82%AC%EC%A7%84)
+* [button value값 가운데 정렬](https://m.blog.naver.com/PostView.nhn?blogId=japkey&logNo=110154457664&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 ### DataPicker
 * [DataPicker 한글 버전](https://kkyunstory.tistory.com/128)
@@ -40,6 +41,7 @@ Today I learned	&#9997;
 ### PHP
 * [Phalcon Framework](https://crystalcube.co.kr/164)
 * [larabel vs phalcon](https://www.educba.com/phalcon-vs-laravel/)
+* [부트스트랩 회원가입 폼](https://link2me.tistory.com/1403)
 
 ### Python
 * [requirements.txt 만들기](https://opentutorials.org/module/4003/24539)
@@ -61,6 +63,9 @@ Today I learned	&#9997;
 * [레파지토리에 있는 폴더 지우기](https://nesoy.github.io/articles/2017-01/Git-Ignore)
 
 * [git hub 웹호스팅하기](https://opentutorials.org/course/2473/16117?source=post_page-----5e773c68d300----------------------)
+
+### Graphql
+* [프로듀서48와 함께하는 graphql 개념](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
 
 ### Serverless
 * [Serverless](https://velopert.com/3543)
