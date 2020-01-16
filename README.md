@@ -21,7 +21,8 @@ Today I learned	&#9997;
 * [프로필 사진 둥글게 만들기](https://zetawiki.com/wiki/CSS_%EC%9B%90%ED%98%95_%EC%82%AC%EC%A7%84)
 * [button value값 가운데 정렬](https://m.blog.naver.com/PostView.nhn?blogId=japkey&logNo=110154457664&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 * [라디오, 체크박스 값 가져오기](https://qkrrudtjr954.github.io/jquery/2018/01/25/get-radio-and-check.html)
-* [ul ui 약관동의 체크박스](https://ddorang-d.tistory.com/9)
+* [ul il을 이용하여 약관동의 체크박스](https://ddorang-d.tistory.com/9)
+
 
 ### DataPicker
 * [DataPicker 한글 버전](https://kkyunstory.tistory.com/128)
@@ -61,11 +62,9 @@ Today I learned	&#9997;
 
 ### Git
 * [git vs gitHub](https://www.zerocho.com/category/Git/post/58045dbc146be6001542a465)
-
 * [레파지토리에 있는 폴더 지우기](https://nesoy.github.io/articles/2017-01/Git-Ignore)
-
 * [git hub 웹호스팅하기](https://opentutorials.org/course/2473/16117?source=post_page-----5e773c68d300----------------------)
-
+* [git에서 잘 사용하는 단어](https://tagilog.tistory.com/588?fbclid=IwAR1Eald2jTlbc2g3h7gjvUgPy7C_sL5Lak2kvik_3oVVLmfHWjRkz453zh8)
 ### Graphql
 * [프로듀서48와 함께하는 graphql 개념](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
 
