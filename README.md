@@ -21,6 +21,7 @@ Today I learned	&#9997;
 * [프로필 사진 둥글게 만들기](https://zetawiki.com/wiki/CSS_%EC%9B%90%ED%98%95_%EC%82%AC%EC%A7%84)
 * [button value값 가운데 정렬](https://m.blog.naver.com/PostView.nhn?blogId=japkey&logNo=110154457664&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 * [라디오, 체크박스 값 가져오기](https://qkrrudtjr954.github.io/jquery/2018/01/25/get-radio-and-check.html)
+* [ul ui 약관동의 체크박스](https://ddorang-d.tistory.com/9)
 
 ### DataPicker
 * [DataPicker 한글 버전](https://kkyunstory.tistory.com/128)
