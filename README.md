@@ -5,8 +5,9 @@ Today I learned	&#9997;
 ---
 
 ### 개발 관련 글
-* [프런트 엔드 개발 가이드](https://joshua1988.github.io/vue-camp/front-dev.html#웹-개발자-역할의-변화)
+* [프론트 엔드 개발 가이드](https://joshua1988.github.io/vue-camp/front-dev.html#웹-개발자-역할의-변화)
 * [HTML+CSS+JQUERY 에버디벨 개발 참고](https://www.everdevel.com/HTML/form-tag/)
+* [카카오페이지 프론트엔드 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
 
 ### AWS
 * [DNS 오류가 날 때](https://www.ihee.com/460)
@@ -65,6 +66,7 @@ Today I learned	&#9997;
 * [레파지토리에 있는 폴더 지우기](https://nesoy.github.io/articles/2017-01/Git-Ignore)
 * [git hub 웹호스팅하기](https://opentutorials.org/course/2473/16117?source=post_page-----5e773c68d300----------------------)
 * [git에서 잘 사용하는 단어](https://tagilog.tistory.com/588?fbclid=IwAR1Eald2jTlbc2g3h7gjvUgPy7C_sL5Lak2kvik_3oVVLmfHWjRkz453zh8)
+
 ### Graphql
 * [프로듀서48와 함께하는 graphql 개념](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
 
