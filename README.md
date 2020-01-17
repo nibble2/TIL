@@ -77,10 +77,12 @@ Today I learned	&#9997;
 
 ### Vue.js
 
-### Web 
+### Web 기초
 * [웹 동작원리](https://opentutorials.org/course/3084/18890)
-
 * [http](https://opentutorials.org/course/2136/12063)
+
+### Web 디자인
+* [2020년 웹 트랜드](https://graphicmama.com/blog/web-design-trends-2020/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
 ### 도움이 되는 개발자들의 회고들
 * [체대출신 개발자 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/?fbclid=IwAR2oFQEww3EBp6y9ea6fuN92bmjCNCzsauSVRQresXYB-TwKPwrbrwyDKFM)
