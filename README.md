@@ -8,7 +8,8 @@ Today I learned	&#9997;
 * [프론트 엔드 개발 가이드](https://joshua1988.github.io/vue-camp/front-dev.html#웹-개발자-역할의-변화)
 * [HTML+CSS+JQUERY 에버디벨 개발 참고](https://www.everdevel.com/HTML/form-tag/)
 * [카카오페이지 프론트엔드 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
-
+* [jquery에 vue 도입](http://labs.brandi.co.kr/2018/10/23/chunbs.html)
+* [vue.js에서 jquery, bootstrap 사용하기](https://jinblog.kr/180)
 ### AWS
 * [DNS 오류가 날 때](https://www.ihee.com/460)
 * [EC2에 RDS 연동하기](https://ndb796.tistory.com/226)
@@ -23,7 +24,7 @@ Today I learned	&#9997;
 * [button value값 가운데 정렬](https://m.blog.naver.com/PostView.nhn?blogId=japkey&logNo=110154457664&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 * [라디오, 체크박스 값 가져오기](https://qkrrudtjr954.github.io/jquery/2018/01/25/get-radio-and-check.html)
 * [ul il을 이용하여 약관동의 체크박스](https://ddorang-d.tistory.com/9)
-
+* [버블링 vs 캡처링](https://mygumi.tistory.com/315)
 
 ### DataPicker
 * [DataPicker 한글 버전](https://kkyunstory.tistory.com/128)
