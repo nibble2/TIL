@@ -40,8 +40,8 @@ Today I learned	&#9997;
 
 ### Node.js
 * [야매로 Node.js 시작하기](https://yahohococo.tistory.com/40?category=763183)
-
 * [좀 더 많은 자료의 Node.js](https://junspapa-itdev.tistory.com/category/Node.js)
+* [node.js 시퀄라이즈](https://velog.io/@cadenzah/sequelize-document-1)
 
 ### PHP
 * [Phalcon Framework](https://crystalcube.co.kr/164)
